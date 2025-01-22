@@ -1,5 +1,5 @@
 import React from "react";
-import Style from "../style.json"
+import Style from "../../style.json"
  
 function task6() {
   return (
